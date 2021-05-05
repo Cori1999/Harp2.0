@@ -1,4 +1,4 @@
-This project is for the MVP for my senior capstone. 
+This project is the MVP for my senior capstone. 
 The current apps targeted at kids was designed to genetate profit, but more and more children are being exposed to inappropriate content due to the processes used. By allowing users to upload videos, some people include graphic content. Even after such content is reported, there has been numerous instances where videos were not taken down quickly enough, and even more children were exposed. 
 My goal is to create a non-profit site designed to be benefical to children. I believe that parents will continue to allow their children to have access to technology-- beginning earlier & earlier. I do not think the solution is to say that this is wrong and expect them not to continue to do so at the current rates (about 80% of parents with children under 11, 54% of children 2 and under) Instead, there should be an option designed for childrens developing impressionable minds. A site that is safe, entertaining, and educational for thier age level.
 This is where Harp comes in!
